@@ -25,7 +25,7 @@ settings:
   minimum-api: none
 spawn-limits:
   monsters: 70
-  animals: 10
+  animals: 50
   water-animals: 15
   water-ambient: 20
   ambient: 15

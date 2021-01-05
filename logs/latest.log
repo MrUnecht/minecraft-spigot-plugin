@@ -1,254 +1,349 @@
-[20:53:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:53:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:53:58] [Worker-Main-12/INFO]: Loaded 7 recipes
-[20:53:59] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[20:53:59] [Server thread/INFO]: Loading properties
-[20:53:59] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-ff439d1-ff2b944 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[20:53:59] [Server thread/INFO]: Debug logging is disabled
-[20:53:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:53:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:53:59] [Server thread/INFO]: Default game type: SURVIVAL
-[20:53:59] [Server thread/INFO]: Generating keypair
-[20:54:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:54:00] [Server thread/INFO]: Using default channel type
-[20:54:00] [Server thread/INFO]: [main] Loading main v1.0
-[20:54:00] [Server thread/INFO]: Preparing level "world"
-[20:54:00] [Server thread/INFO]: -------- World Settings For [world] --------
-[20:54:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:54:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[20:54:00] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:54:00] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:54:00] [Server thread/INFO]: View Distance: 10
-[20:54:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[20:54:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[20:54:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:54:00] [Server thread/INFO]: Max TNT Explosions: 100
-[20:54:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:54:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:54:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:54:00] [Server thread/INFO]: Mob Spawn Range: 6
-[20:54:00] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:54:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:54:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:54:01] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[20:54:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:54:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[20:54:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:54:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:54:01] [Server thread/INFO]: View Distance: 10
-[20:54:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[20:54:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[20:54:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:54:01] [Server thread/INFO]: Max TNT Explosions: 100
-[20:54:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:54:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:54:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:54:01] [Server thread/INFO]: Mob Spawn Range: 6
-[20:54:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:54:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:54:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[20:54:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:54:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[20:54:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:54:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:54:01] [Server thread/INFO]: View Distance: 10
-[20:54:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[20:54:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[20:54:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[20:54:01] [Server thread/INFO]: Max TNT Explosions: 100
-[20:54:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:54:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:54:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:54:01] [Server thread/INFO]: Mob Spawn Range: 6
-[20:54:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:54:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:54:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:54:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:54:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:01] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:02] [Server thread/INFO]: Preparing spawn area: 83%
-[20:54:02] [Server thread/INFO]: Time elapsed: 1297 ms
-[20:54:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:54:02] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:02] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:03] [Worker-Main-9/INFO]: Preparing spawn area: 95%
-[20:54:04] [Worker-Main-12/INFO]: Preparing spawn area: 98%
-[20:54:04] [Server thread/INFO]: Time elapsed: 1752 ms
-[20:54:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:54:04] [Server thread/INFO]: Preparing spawn area: 0%
-[20:54:04] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[20:54:04] [Server thread/INFO]: Time elapsed: 869 ms
-[20:54:04] [Server thread/INFO]: [main] Enabling main v1.0
-[20:54:04] [Server thread/INFO]: [MAIN] Setting up Gamemodes and alle new player will be set to Spectator
-[20:54:04] [Server thread/INFO]: [MAIN] Setting up Death Settings
-[20:54:04] [Server thread/INFO]: [MAIN] Setting up Timer Settings
-[20:54:04] [Server thread/INFO]: [MAIN] Setting up Win Settings
-[20:54:04] [Server thread/INFO]: [MAIN] Loading Events
-[20:54:05] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDirtRalley
-[20:54:05] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeTnt
-[20:54:05] [Server thread/INFO]: [MAIN] Register all Event Listener
-[20:54:05] [Server thread/INFO]: [MAIN] Loading UI
-[20:54:05] [Server thread/INFO]: Setting up Inventories
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up CreatItem
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up LineHandler
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up MaterialHandler
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up ScoreboardHandler
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up TimeHandler
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] Init Inventories
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Timer Class
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event Dirt Ralley
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event TNT
-[20:54:05] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[20:54:05] [Server thread/INFO]: [MAIN] Register all UI Listener
-[20:54:05] [Server thread/INFO]: [MAIN] Loading Commands
-[20:54:05] [Server thread/INFO]: Starting MyCommands
-[20:54:05] [Server thread/INFO]: Event Reference Set
-[20:54:05] [Server thread/INFO]: Inventory Reference Set
-[20:54:05] [Server thread/INFO]: [MAIN] Loading ColorCodes
-[20:54:05] [Server thread/INFO]: [MAIN] Server ready!
-[20:54:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:54:05] [Server thread/INFO]: Done (4.257s)! For help, type "help"
-[20:54:17] [User Authenticator #1/INFO]: UUID of player TaubsenLive is 0682ed14-12f9-4ffc-b6ab-e7862eee2e78
-[20:54:17] [Server thread/INFO]: Players on Server: 1
-[20:54:17] [Server thread/INFO]: TaubsenLive[/127.0.0.1:51760] logged in with entity id 306 at ([world]-6.873348969281821, 68.29128935387195, -1.2281583362588646)
-[20:54:22] [Server thread/INFO]: TaubsenLive issued server command: /tl inv
-[20:54:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[20:54:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[20:54:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[20:54:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[20:54:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[20:54:23] [Server thread/INFO]: [Main] Opening DirtRalley Settings
-[20:54:24] [Server thread/INFO]:  [DirtRalley] Activated
-[20:54:24] [Server thread/INFO]:  [DirtRalley] Death Penality Activated
-[20:54:24] [Server thread/INFO]:  [DirtRalley] PermaDeath Activated
-[20:54:24] [Server thread/INFO]:  [DirtRalley] Win handled by Challenge
-[20:54:25] [Server thread/INFO]:  [DirtRalley] Going Back
-[20:54:26] [Server thread/INFO]: [Main] Starting Challenge
-[20:54:54] [Server thread/INFO]: TaubsenLive issued server command: /worldborder damage buffer 5
-[20:54:58] [Server thread/INFO]: TaubsenLive issued server command: /worldborder damage buffer 1
-[20:54:58] [Server thread/INFO]: [TaubsenLive: Set the world border damage buffer to 1.00 blocks]
-[20:55:09] [Server thread/INFO]: TaubsenLive issued server command: /worldborder damage amount 5
-[20:55:09] [Server thread/INFO]: [TaubsenLive: Set the world border damage to 5.00 per block each second]
-[20:55:21] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 5
-[20:55:21] [Server thread/INFO]: [TaubsenLive: Set the world border to 5.0 blocks wide]
-[20:55:21] [Server thread/INFO]: Player TaubsenLive has scored 0 Points!
-[20:55:21] [Server thread/INFO]: Stopping Timer
-[20:55:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[20:55:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[20:55:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[20:55:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[20:55:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[20:55:21] [Server thread/INFO]: Player TaubsenLive died!
-[20:55:21] [Server thread/INFO]: Challenge failed!
-[20:55:21] [Server thread/INFO]: TaubsenLive suffocated in a wall
-[20:55:40] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 10
-[20:55:40] [Server thread/INFO]: [TaubsenLive: Set the world border to 10.0 blocks wide]
-[20:55:44] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 5 20
-[20:55:44] [Server thread/INFO]: [TaubsenLive: Shrinking the world border to 5.0 blocks wide over 20 seconds]
-[20:55:58] [Server thread/INFO]: TaubsenLive issued server command: /gamemode survival
-[20:55:58] [Server thread/INFO]: [TaubsenLive: Set own game mode to Survival Mode]
-[20:56:15] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 25
-[20:56:15] [Server thread/INFO]: [TaubsenLive: Set the world border to 25.0 blocks wide]
-[20:56:25] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 10 60
-[20:56:25] [Server thread/INFO]: [TaubsenLive: Shrinking the world border to 10.0 blocks wide over 60 seconds]
-[20:57:22] [Server thread/INFO]: TaubsenLive issued server command: /worldborder damage buffer 5
-[20:57:22] [Server thread/INFO]: [TaubsenLive: Set the world border damage buffer to 5.00 blocks]
-[20:57:30] [Server thread/INFO]: TaubsenLive issued server command: /worldborder damage amount 0.5
-[20:57:30] [Server thread/INFO]: [TaubsenLive: Set the world border damage to 0.50 per block each second]
-[20:57:32] [Server thread/INFO]: TaubsenLive issued server command: /worldborder damage amount 0.25
-[20:57:32] [Server thread/INFO]: [TaubsenLive: Set the world border damage to 0.25 per block each second]
-[20:57:36] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 10 60
-[20:57:39] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 25
-[20:57:39] [Server thread/INFO]: [TaubsenLive: Set the world border to 25.0 blocks wide]
-[20:57:40] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 10 60
-[20:57:40] [Server thread/INFO]: [TaubsenLive: Shrinking the world border to 10.0 blocks wide over 60 seconds]
-[20:58:19] [Server thread/INFO]: TaubsenLive issued server command: /worldborder center 1 1
-[20:58:19] [Server thread/INFO]: [TaubsenLive: Set the center of the world border to 1.50, 1,50]
-[20:58:26] [Server thread/INFO]: TaubsenLive issued server command: /worldborder center 3 3
-[20:58:26] [Server thread/INFO]: [TaubsenLive: Set the center of the world border to 3.50, 3,50]
-[20:58:51] [Server thread/INFO]: TaubsenLive issued server command: /worldborder set 10000
-[20:58:51] [Server thread/INFO]: [TaubsenLive: Set the world border to 10000.0 blocks wide]
-[20:59:06] [Server thread/INFO]: TaubsenLive issued server command: /tl c
-[20:59:06] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[20:59:06] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[20:59:06] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[20:59:06] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[20:59:06] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[20:59:07] [Server thread/INFO]: [Main] Opening TNT Settings
-[20:59:08] [Server thread/INFO]:  [TNT] Activated TNT
-[20:59:08] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 11
-[20:59:09] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 12
-[20:59:11] [Server thread/INFO]:  [TNT] Going Back
-[20:59:12] [Server thread/INFO]: [Main] Opening Ending Conditions Settings
-[20:59:13] [Server thread/INFO]:  [Ending Conditions] Going Back
-[20:59:14] [Server thread/INFO]: [Main] Starting Challenge
-[20:59:26] [Server thread/INFO]: TNT dropping! Be careful!
-[20:59:38] [Server thread/INFO]: TNT dropping! Be careful!
-[20:59:50] [Server thread/INFO]: TNT dropping! Be careful!
-[21:00:00] [Server thread/INFO]: Stopping Timer
-[21:00:00] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[21:00:00] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[21:00:00] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[21:00:00] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[21:00:00] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[21:00:00] [Server thread/INFO]: Player TaubsenLive died!
-[21:00:00] [Server thread/INFO]: Challenge failed!
-[21:00:00] [Server thread/INFO]: TaubsenLive was slain by Zombie
-[21:00:55] [Server thread/INFO]: TaubsenLive lost connection: Disconnected
-[21:00:55] [Server thread/INFO]: [MAIN] [CONDITIONS] stopping events because there are no Player
-[21:00:55] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[21:00:55] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[21:00:55] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[21:00:55] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[21:00:55] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[21:00:55] [Server thread/INFO]: TaubsenLive left the game
+[00:46:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:46:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[00:46:47] [Worker-Main-12/INFO]: Loaded 7 recipes
+[00:46:48] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[00:46:48] [Server thread/INFO]: Loading properties
+[00:46:48] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-ff439d1-ff2b944 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[00:46:48] [Server thread/INFO]: Debug logging is disabled
+[00:46:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:46:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:46:48] [Server thread/INFO]: Default game type: SURVIVAL
+[00:46:48] [Server thread/INFO]: Generating keypair
+[00:46:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:46:48] [Server thread/INFO]: Using default channel type
+[00:46:49] [Server thread/INFO]: [main] Loading main v1.0
+[00:46:49] [Server thread/INFO]: Preparing level "world"
+[00:46:49] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:46:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:46:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:46:49] [Server thread/INFO]: View Distance: 10
+[00:46:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:46:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:46:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:46:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:46:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:46:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:46:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:46:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:46:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:46:49] [Server thread/INFO]: Mob Spawn Range: 6
+[00:46:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:46:49] [Server thread/INFO]: Max TNT Explosions: 100
+[00:46:49] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:46:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:46:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:46:49] [Server thread/INFO]: View Distance: 10
+[00:46:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:46:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:46:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:46:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:46:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:46:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:46:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:46:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:46:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:46:49] [Server thread/INFO]: Mob Spawn Range: 6
+[00:46:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:46:49] [Server thread/INFO]: Max TNT Explosions: 100
+[00:46:49] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:46:49] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:46:49] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:46:49] [Server thread/INFO]: View Distance: 10
+[00:46:49] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:46:49] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:46:49] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:46:49] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[00:46:49] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:46:49] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[00:46:49] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[00:46:49] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:46:49] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:46:49] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[00:46:49] [Server thread/INFO]: Mob Spawn Range: 6
+[00:46:49] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:46:49] [Server thread/INFO]: Max TNT Explosions: 100
+[00:46:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:46:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:51] [Server thread/INFO]: Time elapsed: 1352 ms
+[00:46:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:46:51] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:51] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:52] [Worker-Main-13/INFO]: Preparing spawn area: 95%
+[00:46:52] [Worker-Main-13/INFO]: Preparing spawn area: 96%
+[00:46:52] [Server thread/INFO]: Time elapsed: 1721 ms
+[00:46:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:46:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:46:53] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[00:46:53] [Server thread/INFO]: Time elapsed: 728 ms
+[00:46:53] [Server thread/INFO]: [main] Enabling main v1.0
+[00:46:53] [Server thread/INFO]: [MAIN] Loading ColorCodes
+[00:46:53] [Server thread/INFO]: [MAIN] Loading materialLists
+[00:46:53] [Server thread/INFO]: [MAIN] Loading Teleport
+[00:46:53] [Server thread/INFO]: [MAIN] Loading WorldBorder
+[00:46:53] [Server thread/INFO]: [MAIN] Setting up Gamemodes and alle new player will be set to Spectator
+[00:46:53] [Server thread/INFO]: [MAIN] Setting up Death Settings
+[00:46:53] [Server thread/INFO]: [MAIN] Setting up Timer Settings
+[00:46:53] [Server thread/INFO]: [MAIN] Setting up Win Settings
+[00:46:53] [Server thread/INFO]: [MAIN] Loading Events
+[00:46:53] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evBlockFunctions
+[00:46:53] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDirtRalley
+[00:46:53] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeTnt
+[00:46:53] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDecreasingWorld
+[00:46:53] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengePlayerMoveChangeBlock
+[00:46:53] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeBlockBreaker
+[00:46:53] [Server thread/INFO]: [MAIN] Register all Event Listener
+[00:46:53] [Server thread/INFO]: [MAIN] Loading UI
+[00:46:53] [Server thread/INFO]: Setting up Inventories
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up CreatItem
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up LineHandler
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up MaterialHandler
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up ScoreboardHandler
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up TimeHandler
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] Init Inventories
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Timer Class
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event Dirt Ralley
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event TNT
+[00:46:53] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[00:46:53] [Server thread/INFO]: [MAIN] Register all UI Listener
+[00:46:53] [Server thread/INFO]: [MAIN] Loading CM_Main
+[00:46:53] [Server thread/INFO]: [MAIN] [CM] Starting CM_Main
+[00:46:53] [Server thread/INFO]: [MAIN] [CM] Event Reference Set
+[00:46:53] [Server thread/INFO]: [MAIN] [CM] Inventory Reference Set
+[00:46:53] [Server thread/INFO]: [MAIN] Loading CM_Worldboarder
+[00:46:53] [Server thread/INFO]: [MAIN] [CM] Starting CM_Worldboarder
+[00:46:53] [Server thread/INFO]: [MAIN] Server ready!
+[00:46:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:46:53] [Server thread/INFO]: Done (4.107s)! For help, type "help"
+[00:46:54] [User Authenticator #1/INFO]: UUID of player TaubsenLive is 0682ed14-12f9-4ffc-b6ab-e7862eee2e78
+[00:46:55] [Server thread/INFO]: Players on Server: 1
+[00:46:55] [Server thread/INFO]: TaubsenLive[/127.0.0.1:54490] logged in with entity id 711 at ([world]219.300000011921, 63.92159999847412, -96.30000001192093)
+[00:47:06] [Server thread/INFO]: TaubsenLive issued server command: /tp @a 0 50 0
+[00:47:06] [Server thread/WARN]: Entity EntityPlayer['TaubsenLive'/711, l='ServerLevel[world]', x=0.50, y=50.00, z=0.50](TaubsenLive at 0.5,50.0,0.5) left loaded chunk area
+[00:47:06] [Server thread/INFO]: [TaubsenLive: Teleported TaubsenLive to 0.5, 50.0, 0.5]
+[00:47:06] [Server thread/WARN]: TaubsenLive moved too quickly! -218.48928161019046,-25.540931756936814,100.52971361376504
+[00:47:14] [Server thread/INFO]: TaubsenLive issued server command: /wb help
+[00:47:14] [Server thread/INFO]: Args: 1
+[00:47:14] [Server thread/INFO]: Worldborder Commands:
+[00:47:14] [Server thread/INFO]: /wb setCenter worldname x y z
+[00:47:14] [Server thread/INFO]: /wb setDamage worldname dmg
+[00:47:14] [Server thread/INFO]: /wb resetWorldBorder worldname
+[00:47:14] [Server thread/INFO]: /wb setSize worldname size
+[00:47:14] [Server thread/INFO]: /wb setEndSize size
+[00:47:14] [Server thread/INFO]: /wb setTimeToEnd seconds
+[00:47:20] [Server thread/INFO]: TaubsenLive issued server command: /wb setDamage world 0.25
+[00:47:20] [Server thread/INFO]: Args: 3
+[00:47:20] [Server thread/INFO]: Worldborder setDamage executed
+[00:47:31] [Server thread/INFO]: TaubsenLive issued server command: /wb setSize world 60
+[00:47:31] [Server thread/INFO]: Args: 3
+[00:47:31] [Server thread/INFO]: Worldborder Size set to 60.0
+[00:47:31] [Server thread/INFO]: Worldborder setSize executed
+[00:47:37] [Server thread/INFO]: TaubsenLive issued server command: /wb setEndSize 10
+[00:47:37] [Server thread/INFO]: Args: 2
+[00:47:37] [Server thread/INFO]: Worldborder Endsize set to 10.0
+[00:47:37] [Server thread/INFO]: Worldborder setEndSize executed
+[00:47:42] [Server thread/INFO]: TaubsenLive issued server command: /wb setTimeToEnd 60
+[00:47:42] [Server thread/INFO]: Args: 2
+[00:47:42] [Server thread/INFO]: Worldborder Shrinktime set to 60
+[00:47:42] [Server thread/INFO]: Worldborder setTimeToEnd executed
+[00:47:47] [Server thread/INFO]: TaubsenLive issued server command: /tl c
+[00:47:47] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[00:47:47] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[00:47:47] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[00:47:47] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[00:47:47] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[00:47:49] [Server thread/INFO]: [Main] Opening Ending Conditions Settings
+[00:47:49] [Server thread/INFO]:  [Ending Conditions] TP enabled
+[00:47:51] [Server thread/INFO]:  [Ending Conditions] Random Spawn at Start
+[00:47:51] [Server thread/INFO]:  [Ending Conditions] Worldborder changes on Start
+[00:47:52] [Server thread/INFO]:  [Ending Conditions] Going Back
+[00:47:53] [Server thread/INFO]: Killed 679 entities
+[00:47:53] [Server thread/INFO]: [Main] Starting Challenge in 4
+[00:47:56] [Server thread/INFO]: Spread 1 players around 0.0, 0.0 with an average distance of 0.00 blocks apart
+[00:47:56] [Server thread/INFO]: Shrinking the world border to 10.0 blocks wide over 60 seconds
+[00:48:21] [Server thread/INFO]: Stopping Timer
+[00:48:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[00:48:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[00:48:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[00:48:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[00:48:21] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[00:48:21] [Server thread/INFO]: Player TaubsenLive died!
+[00:48:21] [Server thread/INFO]: Challenge failed!
+[00:48:21] [Server thread/INFO]: TaubsenLive suffocated in a wall
+[00:48:32] [Server thread/INFO]: TaubsenLive issued server command: /wb help
+[00:48:32] [Server thread/INFO]: Args: 1
+[00:48:32] [Server thread/INFO]: Worldborder Commands:
+[00:48:32] [Server thread/INFO]: /wb setCenter worldname x y z
+[00:48:32] [Server thread/INFO]: /wb setDamage worldname dmg
+[00:48:32] [Server thread/INFO]: /wb resetWorldBorder worldname
+[00:48:32] [Server thread/INFO]: /wb setSize worldname size
+[00:48:32] [Server thread/INFO]: /wb setEndSize size
+[00:48:32] [Server thread/INFO]: /wb setTimeToEnd seconds
+[00:48:38] [Server thread/INFO]: TaubsenLive issued server command: /wb resetWorldBorder
+[00:48:38] [Server thread/INFO]: Args: 1
+[00:48:41] [Server thread/INFO]: TaubsenLive issued server command: /wb resetWorldBorder world
+[00:48:41] [Server thread/INFO]: Args: 2
+[00:48:41] [Server thread/INFO]: Worldborder resetWorldBorder executed
+[00:48:48] [Server thread/INFO]: TaubsenLive issued server command: /wb setSize 150
+[00:48:48] [Server thread/INFO]: Args: 2
+[00:48:51] [Server thread/INFO]: TaubsenLive issued server command: /wb setSize world 150
+[00:48:51] [Server thread/INFO]: Args: 3
+[00:48:51] [Server thread/INFO]: Worldborder Size set to 150.0
+[00:48:51] [Server thread/INFO]: Worldborder setSize executed
+[00:48:56] [Server thread/INFO]: TaubsenLive issued server command: /wb setSize world 100
+[00:48:56] [Server thread/INFO]: Args: 3
+[00:48:56] [Server thread/INFO]: Worldborder Size set to 100.0
+[00:48:56] [Server thread/INFO]: Worldborder setSize executed
+[00:49:02] [Server thread/INFO]: TaubsenLive issued server command: /wb setSize world 160
+[00:49:02] [Server thread/INFO]: Args: 3
+[00:49:02] [Server thread/INFO]: Worldborder Size set to 160.0
+[00:49:02] [Server thread/INFO]: Worldborder setSize executed
+[00:49:10] [Server thread/INFO]: TaubsenLive issued server command: /wb setEndSize 40
+[00:49:10] [Server thread/INFO]: Args: 2
+[00:49:10] [Server thread/INFO]: Worldborder Endsize set to 40.0
+[00:49:10] [Server thread/INFO]: Worldborder setEndSize executed
+[00:49:19] [Server thread/INFO]: TaubsenLive issued server command: /wb setTimeToEnd 500
+[00:49:19] [Server thread/INFO]: Args: 2
+[00:49:19] [Server thread/INFO]: Worldborder Shrinktime set to 500
+[00:49:19] [Server thread/INFO]: Worldborder setTimeToEnd executed
+[00:49:22] [Server thread/INFO]: TaubsenLive issued server command: /tl c
+[00:49:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[00:49:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[00:49:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[00:49:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[00:49:22] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[00:49:23] [Server thread/INFO]: [Main] Opening TNT Settings
+[00:49:24] [Server thread/INFO]:  [TNT] Activated TNT
+[00:49:24] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 11
+[00:49:24] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 12
+[00:49:24] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 13
+[00:49:24] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 14
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 15
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 16
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 17
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 18
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 19
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 20
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 21
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 22
+[00:49:25] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 23
+[00:49:26] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 24
+[00:49:26] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 25
+[00:49:26] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 26
+[00:49:26] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 27
+[00:49:27] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 28
+[00:49:27] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 29
+[00:49:27] [Server thread/INFO]:  [TNT] Changed Time to Spawn TNT to: 30
+[00:49:28] [Server thread/INFO]:  [TNT] Going Back
+[00:49:29] [Server thread/INFO]: [Main] Opening DirtRalley Settings
+[00:49:30] [Server thread/INFO]:  [DirtRalley] Activated
+[00:49:32] [Server thread/INFO]:  [DirtRalley] Win handled by Challenge
+[00:49:34] [Server thread/INFO]:  [DirtRalley] Death Penality Activated
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 11
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 12
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 13
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 14
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 15
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 16
+[00:49:35] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 17
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 18
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 19
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 20
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 21
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 22
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 23
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 24
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 25
+[00:49:36] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 26
+[00:49:37] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 27
+[00:49:37] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 28
+[00:49:37] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 29
+[00:49:37] [Server thread/INFO]:  [DirtRalley] Death Penality Prz changeo to: 30
+[00:49:38] [Server thread/INFO]:  [DirtRalley] Going Back
+[00:49:39] [Server thread/INFO]: [Main] Opening Ending Conditions Settings
+[00:49:42] [Server thread/INFO]:  [Ending Conditions] Win is handled by Challenge
+[00:49:43] [Server thread/INFO]:  [Ending Conditions] Win not handled by Challenge
+[00:49:43] [Server thread/INFO]:  [Ending Conditions] Win by getting to the End 
+[00:49:44] [Server thread/INFO]:  [Ending Conditions] Win not handled by Challenge
+[00:49:46] [Server thread/INFO]:  [Ending Conditions] Death handled by Challenge
+[00:49:48] [Server thread/INFO]:  [Ending Conditions] Timer going down up now!
+[00:49:49] [Server thread/INFO]:  [Ending Conditions] Changed minutes to: 2
+[00:49:49] [Server thread/INFO]:  [Ending Conditions] Changed minutes to: 3
+[00:49:49] [Server thread/INFO]:  [Ending Conditions] Changed minutes to: 4
+[00:49:49] [Server thread/INFO]:  [Ending Conditions] Changed minutes to: 5
+[00:49:52] [Server thread/INFO]:  [Ending Conditions] Center Spawn at Start
+[00:49:53] [Server thread/INFO]:  [Ending Conditions] Disabled
+[00:49:54] [Server thread/INFO]:  [Ending Conditions] Going Back
+[00:49:58] [Server thread/INFO]: Killed 93 entities
+[00:49:58] [Server thread/INFO]: [Main] Starting Challenge in 4
+[00:50:01] [Server thread/INFO]: Incorrect argument for command
+[00:50:01] [Server thread/INFO]: tp 0.0 0.0 1 1 false @p<--[HERE]
+[00:50:01] [Server thread/INFO]: Shrinking the world border to 40.0 blocks wide over 500 seconds
+[00:50:31] [Server thread/INFO]: TNT dropping! Be careful!
+[00:50:48] [Server thread/INFO]: >>> TaubsenLive has died and lost 30% of his Points! This were 1.8 of his Points! Little Tip dont die :D!
+[00:50:48] [Server thread/INFO]: TaubsenLive was slain by Spider
+[00:51:01] [Server thread/INFO]: TNT dropping! Be careful!
+[00:51:25] [Server thread/INFO]: >>> TaubsenLive has died and lost 30% of his Points! This were 2.1 of his Points! Little Tip dont die :D!
+[00:51:25] [Server thread/INFO]: TaubsenLive suffocated in a wall
+[00:51:31] [Server thread/INFO]: TNT dropping! Be careful!
+[00:51:32] [Server thread/INFO]: TaubsenLive lost connection: Disconnected
+[00:51:32] [Server thread/INFO]: [MAIN] [CONDITIONS] stopping events because there are no Player
+[00:51:32] [Server thread/INFO]: Player TaubsenLive has scored 4 Points!
+[00:51:32] [Server thread/INFO]: Stopping Timer
+[00:51:32] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[00:51:32] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[00:51:32] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[00:51:32] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[00:51:32] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[00:51:32] [Server thread/INFO]: TaubsenLive left the game
