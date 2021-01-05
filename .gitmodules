@@ -1,0 +1,3 @@
+[submodule "CraftBukkit"]
+	path = CraftBukkit
+	url = https://github.com/MrUnecht/minecraft-spigot-plugin
