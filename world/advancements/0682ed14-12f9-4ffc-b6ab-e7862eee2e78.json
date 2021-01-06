@@ -1,7 +1,19 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-01-06 11:56:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2021-01-05 20:56:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-01-06 11:56:15 +0100"
     },
     "done": true
   },
@@ -56,6 +68,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-01-05 20:56:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-01-06 11:56:15 +0100"
     },
     "done": true
   },
@@ -115,13 +133,22 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2021-01-06 12:27:49 +0100",
       "minecraft:forest": "2021-01-03 22:51:24 +0100",
+      "minecraft:mountains": "2021-01-06 11:56:32 +0100",
+      "minecraft:taiga": "2021-01-06 11:54:53 +0100",
       "minecraft:desert_hills": "2021-01-03 23:04:43 +0100",
+      "minecraft:snowy_tundra": "2021-01-06 11:56:50 +0100",
+      "minecraft:taiga_hills": "2021-01-06 12:06:07 +0100",
       "minecraft:desert": "2021-01-03 23:04:30 +0100",
       "minecraft:savanna_plateau": "2021-01-05 19:42:31 +0100",
       "minecraft:beach": "2021-01-05 19:36:01 +0100",
       "minecraft:river": "2021-01-03 23:04:32 +0100",
+      "minecraft:wooded_mountains": "2021-01-06 12:27:48 +0100",
       "minecraft:wooded_hills": "2021-01-04 01:41:38 +0100",
+      "minecraft:mushroom_field_shore": "2021-01-06 12:06:21 +0100",
+      "minecraft:wooded_badlands_plateau": "2021-01-06 12:20:56 +0100",
+      "minecraft:swamp": "2021-01-06 12:06:24 +0100",
       "minecraft:savanna": "2021-01-03 23:05:02 +0100",
       "minecraft:plains": "2021-01-03 23:04:51 +0100"
     },
@@ -277,6 +304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-01-06 11:56:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2021-01-04 00:51:35 +0100"
@@ -316,6 +349,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-05 20:56:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-01-06 11:56:15 +0100"
     },
     "done": true
   },
@@ -382,6 +421,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-01-04 00:51:35 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2021-01-06 11:56:15 +0100"
     },
     "done": true
   },
