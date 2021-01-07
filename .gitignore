@@ -1,7 +1,7 @@
 *.rbc
 *.fyc
-BuildData
-logs
-world
-world_nether
-world_the_end
+BuildData/*
+logs/*
+world/*
+world_nether/*
+world_the_end/*
