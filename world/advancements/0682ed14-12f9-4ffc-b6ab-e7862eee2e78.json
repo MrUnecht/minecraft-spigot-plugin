@@ -1,460 +1,330 @@
 {
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_chicken": "2021-01-07 21:54:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_furnace": "2021-01-11 21:52:27 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_the_recipe": "2021-01-07 21:52:48 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "has_leather": "2021-01-07 23:31:18 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2021-01-07 21:51:32 +0100"
+      "has_spruce_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
+  "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_iron_ore": "2021-01-11 21:51:51 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2021-01-07 21:55:25 +0100"
+      "get_stone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
-      "has_beef": "2021-01-07 21:54:21 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2021-01-07 23:31:18 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna_plateau": "2021-01-07 23:08:31 +0100",
-      "minecraft:beach": "2021-01-07 21:56:31 +0100",
-      "minecraft:river": "2021-01-07 22:04:02 +0100",
-      "minecraft:savanna": "2021-01-07 21:50:36 +0100"
+      "minecraft:cold_ocean": "2021-01-11 21:46:49 +0100",
+      "minecraft:snowy_mountains": "2021-01-11 21:49:13 +0100",
+      "minecraft:taiga": "2021-01-11 21:39:56 +0100",
+      "minecraft:snowy_tundra": "2021-01-11 21:47:27 +0100",
+      "minecraft:snowy_beach": "2021-01-11 21:46:58 +0100",
+      "minecraft:river": "2021-01-11 21:47:21 +0100"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-01-11 21:47:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_log": "2021-01-07 21:51:32 +0100"
+      "has_log": "2021-01-11 21:47:37 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_stick": "2021-01-07 21:54:03 +0100"
+      "has_logs": "2021-01-11 21:47:37 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_the_recipe": "2021-01-07 21:52:41 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "has_stick": "2021-01-07 21:54:03 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lots_of_items": "2021-01-07 21:52:55 +0100"
+      "has_lots_of_items": "2021-01-11 21:49:28 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "in_water": "2021-01-07 21:55:45 +0100"
+      "in_water": "2021-01-11 21:46:15 +0100"
     },
     "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_the_recipe": "2021-01-07 21:52:51 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_red_flower": "2021-01-07 21:52:56 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2021-01-07 21:55:45 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "has_stone_pickaxe": "2021-01-07 21:57:29 +0100"
+      "has_stone_pickaxe": "2021-01-11 21:50:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-01-11 21:46:15 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2021-01-07 21:51:32 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2021-01-07 21:54:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2021-01-07 21:54:20 +0100"
+      "has_log": "2021-01-11 21:47:37 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
-      "has_coal": "2021-01-07 21:56:39 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2021-01-07 23:31:18 +0100"
+      "has_coal": "2021-01-11 21:51:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "in_water": "2021-01-07 21:55:45 +0100"
+      "in_water": "2021-01-11 21:46:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2021-01-11 21:51:51 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "in_water": "2021-01-07 21:55:45 +0100"
+      "in_water": "2021-01-11 21:46:15 +0100"
     },
     "done": true
   },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_the_recipe": "2021-01-07 21:54:02 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2021-01-07 23:31:18 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "in_water": "2021-01-07 21:55:45 +0100"
+      "in_water": "2021-01-11 21:46:15 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_acacia_planks": "2021-01-07 21:52:28 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_stone": "2021-01-07 21:56:20 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_stick": "2021-01-07 21:54:03 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2021-01-07 21:54:21 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "has_chicken": "2021-01-07 21:54:58 +0100"
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
-    "criteria": {
-      "has_beef": "2021-01-07 21:54:21 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
-      "stone_pickaxe": "2021-01-07 21:57:29 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
+      "stone_pickaxe": "2021-01-11 21:50:57 +0100"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
-      "crafting_table": "2021-01-07 21:52:31 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2021-01-07 21:54:58 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2021-01-07 21:52:28 +0100"
+      "crafting_table": "2021-01-11 21:48:47 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_stick": "2021-01-07 21:54:03 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
-      "has_stick": "2021-01-07 21:54:03 +0100"
+      "has_stick": "2021-01-11 21:47:58 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "in_water": "2021-01-07 21:55:45 +0100"
+      "in_water": "2021-01-11 21:46:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-01-11 21:48:44 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_cobblestone": "2021-01-07 21:55:25 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2021-01-07 21:56:20 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2021-01-07 23:31:18 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2021-01-07 23:31:18 +0100"
+      "has_cobblestone": "2021-01-11 21:50:50 +0100"
     },
     "done": true
   },
