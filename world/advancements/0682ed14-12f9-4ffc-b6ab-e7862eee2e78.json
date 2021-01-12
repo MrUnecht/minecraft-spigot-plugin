@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2021-01-12 16:47:48 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-01-11 21:47:58 +0100"
@@ -326,6 +332,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-01-11 21:48:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2021-01-12 16:47:48 +0100"
     },
     "done": true
   },
