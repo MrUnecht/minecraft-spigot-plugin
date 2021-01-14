@@ -25,14 +25,14 @@ settings:
   minimum-api: none
 spawn-limits:
   monsters: 70
-  animals: 50
-  water-animals: 15
+  animals: 70
+  water-animals: 20
   water-ambient: 20
   ambient: 15
 chunk-gc:
   period-in-ticks: 600
 ticks-per:
-  animal-spawns: 400
+  animal-spawns: 300
   monster-spawns: 1
   water-spawns: 1
   water-ambient-spawns: 1
