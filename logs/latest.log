@@ -1,206 +1,239 @@
-[21:54:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:54:11] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[21:54:12] [Worker-Main-12/INFO]: Loaded 7 recipes
-[21:54:13] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[21:54:13] [Server thread/INFO]: Loading properties
-[21:54:13] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-5fc0fb4-7029c0a (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[21:54:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:54:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:54:13] [Server thread/INFO]: Debug logging is disabled
-[21:54:13] [Server thread/INFO]: Default game type: SURVIVAL
-[21:54:13] [Server thread/INFO]: Generating keypair
-[21:54:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:54:13] [Server thread/INFO]: Using default channel type
-[21:54:14] [Server thread/INFO]: [main] Loading main v1.0
-[21:54:14] [Server thread/INFO]: Preparing level "world"
-[21:54:14] [Server thread/INFO]: -------- World Settings For [world] --------
-[21:54:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:54:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[21:54:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:54:14] [Server thread/INFO]: Mob Spawn Range: 6
-[21:54:14] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:54:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Potato Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:54:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:54:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[21:54:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:54:14] [Server thread/INFO]: Max TNT Explosions: 100
-[21:54:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:54:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:54:14] [Server thread/INFO]: Item Merge Radius: 2.5
-[21:54:14] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:54:14] [Server thread/INFO]: View Distance: 10
-[21:54:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[21:54:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:54:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[21:54:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:54:14] [Server thread/INFO]: Mob Spawn Range: 6
-[21:54:14] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:54:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Potato Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:54:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:54:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[21:54:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:54:14] [Server thread/INFO]: Max TNT Explosions: 100
-[21:54:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:54:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:54:14] [Server thread/INFO]: Item Merge Radius: 2.5
-[21:54:14] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:54:14] [Server thread/INFO]: View Distance: 10
-[21:54:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[21:54:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[21:54:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[21:54:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[21:54:14] [Server thread/INFO]: Mob Spawn Range: 6
-[21:54:14] [Server thread/INFO]: Experience Merge Radius: 3.0
-[21:54:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Cane Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Melon Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Potato Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Vine Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[21:54:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[21:54:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[21:54:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[21:54:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[21:54:14] [Server thread/INFO]: Max TNT Explosions: 100
-[21:54:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[21:54:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[21:54:14] [Server thread/INFO]: Item Merge Radius: 2.5
-[21:54:14] [Server thread/INFO]: Item Despawn Rate: 6000
-[21:54:14] [Server thread/INFO]: View Distance: 10
-[21:54:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:54:16] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:16] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:16] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:16] [Server thread/INFO]: Preparing spawn area: 83%
-[21:54:19] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[21:54:19] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[21:54:19] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[21:54:19] [Worker-Main-14/INFO]: Preparing spawn area: 83%
-[21:54:19] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[21:54:19] [Worker-Main-9/INFO]: Preparing spawn area: 91%
-[21:54:19] [Worker-Main-11/INFO]: Preparing spawn area: 91%
-[21:54:20] [Worker-Main-9/INFO]: Preparing spawn area: 91%
-[21:54:20] [Server thread/INFO]: Time elapsed: 5978 ms
-[21:54:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:54:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:21] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:21] [Worker-Main-10/INFO]: Preparing spawn area: 83%
-[21:54:22] [Worker-Main-11/INFO]: Preparing spawn area: 83%
-[21:54:22] [Worker-Main-9/INFO]: Preparing spawn area: 83%
-[21:54:23] [Worker-Main-14/INFO]: Preparing spawn area: 94%
-[21:54:23] [Server thread/INFO]: Time elapsed: 2689 ms
-[21:54:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:54:23] [Server thread/INFO]: Preparing spawn area: 0%
-[21:54:24] [Worker-Main-12/INFO]: Preparing spawn area: 83%
-[21:54:24] [Server thread/INFO]: Time elapsed: 677 ms
-[21:54:24] [Server thread/INFO]: [main] Enabling main v1.0
-[21:54:24] [Server thread/INFO]: [MAIN] Loading Handler_ChatColors
-[21:54:24] [Server thread/INFO]: [MAIN] Loading handlerMaterial
-[21:54:24] [Server thread/INFO]: [MAIN] Loading Handler_WorldBorder
-[21:54:24] [Server thread/INFO]: [MAIN] Loading PlayerColorList
-[21:54:24] [Server thread/INFO]: [MAIN] Loading Handler_Teleport
-[21:54:24] [Server thread/INFO]: [MAIN] Loading Handler_CheckRunnable
-[21:54:24] [Server thread/INFO]: [MAIN] Setting up Handler_Gamemodes and alle new player will be set to Spectator
-[21:54:24] [Server thread/INFO]: [MAIN] Setting up Handler_Death Settings
-[21:54:24] [Server thread/INFO]: [MAIN] Setting up Handler_Timer Settings
-[21:54:24] [Server thread/INFO]: [MAIN] Setting up Handler_Win Settings
-[21:54:24] [Server thread/INFO]: [MAIN] Loading Events
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evBlockFunctions
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDirtRalley
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeTnt
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDecreasingWorld
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengePlayerMoveChangeBlock
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeBlockBreaker
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading EV_Challenge_BedrockWall
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeSnake
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeBedrockpath
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeChunkDestructOnBreak
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evMobThief
-[21:54:24] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evMobExplosionSkeleton
-[21:54:24] [Server thread/INFO]: [MAIN] Register all Event Challenge Listener
-[21:54:24] [Server thread/INFO]: [MAIN] Register all Event Mob Listener
-[21:54:24] [Server thread/INFO]: [MAIN] Loading UI
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up CreatItem
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up LineHandler
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up MaterialHandler
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up ScoreboardHandler
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up TimeHandler
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up activator
-[21:54:24] [Server thread/INFO]: Setting up Inventories
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] Init Challenge Inventories
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event Dirt Ralley
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event TNT
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event evChallengeBedrockWall
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockWall
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event evChallengeSnake
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeSnake
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event evChallengeBedrockpath
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockpath
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockWall
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeSnake
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockpath
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Handler_Timer Class
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
-[21:54:24] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
-[21:54:24] [Server thread/INFO]: [MAIN] Register all UI Listener
-[21:54:24] [Server thread/INFO]: [MAIN] Loading CM_ChallengeGUI
-[21:54:24] [Server thread/INFO]: [MAIN] [CM] Starting CM_ChallengeGUI
-[21:54:24] [Server thread/INFO]: [MAIN] [CM] Event Reference Set
-[21:54:24] [Server thread/INFO]: [MAIN] [CM] Inventory Reference Set
-[21:54:24] [Server thread/INFO]: [MAIN] Loading CM_Worldboarder
-[21:54:24] [Server thread/INFO]: [MAIN] [CM] Starting CM_Worldboarder
-[21:54:24] [Server thread/INFO]: [MAIN] Loading CM_Timer
-[21:54:24] [Server thread/INFO]: [MAIN] [CM] Starting CM_Timer
-[21:54:24] [Server thread/INFO]: [MAIN] Server ready!
-[21:54:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:54:24] [Server thread/INFO]: Done (9.738s)! For help, type "help"
+[22:07:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:07:06] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:07:07] [Worker-Main-12/INFO]: Loaded 7 recipes
+[22:07:08] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:07:08] [Server thread/INFO]: Loading properties
+[22:07:08] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-5fc0fb4-7029c0a (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[22:07:08] [Server thread/INFO]: Debug logging is disabled
+[22:07:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:07:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:07:08] [Server thread/INFO]: Default game type: SURVIVAL
+[22:07:08] [Server thread/INFO]: Generating keypair
+[22:07:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:07:09] [Server thread/INFO]: Using default channel type
+[22:07:10] [Server thread/INFO]: [main] Loading main v1.0
+[22:07:10] [Server thread/INFO]: Preparing level "world"
+[22:07:10] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:07:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:07:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:07:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:07:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:07:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:07:10] [Server thread/INFO]: View Distance: 10
+[22:07:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:07:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:07:10] [Server thread/INFO]: Mob Spawn Range: 6
+[22:07:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:07:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:07:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:07:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:07:10] [Server thread/INFO]: Max TNT Explosions: 100
+[22:07:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:07:10] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:07:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:07:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:07:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:07:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:07:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:07:10] [Server thread/INFO]: View Distance: 10
+[22:07:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:07:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:07:10] [Server thread/INFO]: Mob Spawn Range: 6
+[22:07:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:07:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:07:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:07:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:07:10] [Server thread/INFO]: Max TNT Explosions: 100
+[22:07:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:07:10] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:07:10] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:07:10] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:07:10] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:07:10] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:07:10] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:07:10] [Server thread/INFO]: View Distance: 10
+[22:07:10] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:07:10] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:07:10] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:07:10] [Server thread/INFO]: Mob Spawn Range: 6
+[22:07:10] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:07:10] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:07:10] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:07:10] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:07:10] [Server thread/INFO]: Max TNT Explosions: 100
+[22:07:10] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:07:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:12] [Server thread/INFO]: Preparing spawn area: 83%
+[22:07:14] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[22:07:14] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[22:07:14] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[22:07:14] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[22:07:14] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[22:07:14] [Worker-Main-14/INFO]: Preparing spawn area: 91%
+[22:07:15] [Worker-Main-10/INFO]: Preparing spawn area: 91%
+[22:07:15] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[22:07:16] [Server thread/INFO]: Time elapsed: 5811 ms
+[22:07:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:07:16] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:16] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:17] [Worker-Main-13/INFO]: Preparing spawn area: 83%
+[22:07:17] [Worker-Main-11/INFO]: Preparing spawn area: 83%
+[22:07:18] [Worker-Main-14/INFO]: Preparing spawn area: 86%
+[22:07:18] [Worker-Main-13/INFO]: Preparing spawn area: 98%
+[22:07:18] [Server thread/INFO]: Time elapsed: 2542 ms
+[22:07:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:07:18] [Server thread/INFO]: Preparing spawn area: 0%
+[22:07:19] [Worker-Main-14/INFO]: Preparing spawn area: 83%
+[22:07:19] [Server thread/INFO]: Time elapsed: 623 ms
+[22:07:19] [Server thread/INFO]: [main] Enabling main v1.0
+[22:07:19] [Server thread/INFO]: [MAIN] Loading Handler_ChatColors
+[22:07:19] [Server thread/INFO]: [MAIN] Loading handlerMaterial
+[22:07:19] [Server thread/INFO]: [MAIN] Loading Handler_WorldBorder
+[22:07:19] [Server thread/INFO]: [MAIN] Loading PlayerColorList
+[22:07:19] [Server thread/INFO]: [MAIN] Loading Handler_Teleport
+[22:07:19] [Server thread/INFO]: [MAIN] Loading Handler_CheckRunnable
+[22:07:19] [Server thread/INFO]: [MAIN] Setting up Handler_Gamemodes and alle new player will be set to Spectator
+[22:07:19] [Server thread/INFO]: [MAIN] Setting up Handler_Death Settings
+[22:07:19] [Server thread/INFO]: [MAIN] Setting up Handler_Timer Settings
+[22:07:19] [Server thread/INFO]: [MAIN] Setting up Handler_Win Settings
+[22:07:19] [Server thread/INFO]: [MAIN] Loading Events
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evBlockFunctions
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDirtRalley
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeTnt
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeDecreasingWorld
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengePlayerMoveChangeBlock
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeBlockBreaker
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading EV_Challenge_BedrockWall
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeSnake
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeBedrockpath
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evChallengeChunkDestructOnBreak
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evMobThief
+[22:07:19] [Server thread/INFO]: [MAIN] [EVMAIN] Loading evMobExplosionSkeleton
+[22:07:19] [Server thread/INFO]: [MAIN] Register all Event Challenge Listener
+[22:07:19] [Server thread/INFO]: [MAIN] Register all Event Mob Listener
+[22:07:19] [Server thread/INFO]: [MAIN] Loading UI
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up CreatItem
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up LineHandler
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up MaterialHandler
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up ScoreboardHandler
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up TimeHandler
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Setting up activator
+[22:07:19] [Server thread/INFO]: Setting up Inventories
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] Init Challenge Inventories
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event Dirt Ralley
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event TNT
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event evChallengeBedrockWall
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockWall
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event evChallengeSnake
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeSnake
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Event evChallengeBedrockpath
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockpath
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockWall
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeSnake
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockpath
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Get Reference to Handler_Timer Class
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[22:07:19] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[22:07:19] [Server thread/INFO]: [MAIN] Register all UI Listener
+[22:07:19] [Server thread/INFO]: [MAIN] Loading CM_ChallengeGUI
+[22:07:19] [Server thread/INFO]: [MAIN] [CM] Starting CM_ChallengeGUI
+[22:07:19] [Server thread/INFO]: [MAIN] [CM] Event Reference Set
+[22:07:19] [Server thread/INFO]: [MAIN] [CM] Inventory Reference Set
+[22:07:19] [Server thread/INFO]: [MAIN] Loading CM_Worldboarder
+[22:07:19] [Server thread/INFO]: [MAIN] [CM] Starting CM_Worldboarder
+[22:07:19] [Server thread/INFO]: [MAIN] Loading CM_Timer
+[22:07:19] [Server thread/INFO]: [MAIN] [CM] Starting CM_Timer
+[22:07:19] [Server thread/INFO]: [MAIN] Server ready!
+[22:07:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:07:19] [Server thread/INFO]: Done (9.348s)! For help, type "help"
+[22:07:32] [User Authenticator #1/INFO]: UUID of player TaubsenLive is 0682ed14-12f9-4ffc-b6ab-e7862eee2e78
+[22:07:32] [Server thread/INFO]: Players on Server: 1
+[22:07:32] [Server thread/INFO]: TaubsenLive[/127.0.0.1:50454] logged in with entity id 202 at ([world_the_end]-14.556995097532281, 63.92159999847412, 11.767116305667521)
+[22:07:33] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[22:07:33] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[22:07:41] [Server thread/INFO]: TaubsenLive issued server command: /kill TaubsenLive
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockWall
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeSnake
+[22:07:41] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockpath
+[22:07:41] [Server thread/INFO]: Player TaubsenLive died!
+[22:07:41] [Server thread/INFO]: Challenge failed!
+[22:07:41] [Server thread/INFO]: TaubsenLive fell out of the world
+[22:07:41] [Server thread/INFO]: [TaubsenLive: Killed TaubsenLive]
+[22:07:44] [Server thread/INFO]: TaubsenLive issued server command: /tl c
+[22:07:45] [Server thread/INFO]: Set the time to 0
+[22:07:45] [Server thread/INFO]: [Main] Starting Challenge in 3
+[22:08:30] [Server thread/INFO]: TaubsenLive lost connection: Disconnected
+[22:08:30] [Server thread/INFO]: [MAIN] [CONDITIONS] stopping events because there are no Player
+[22:08:30] [Server thread/INFO]: Stopping Handler_Timer
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 1
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Page 2
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Ending Conditions
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challene DirtRalley
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge TNT
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockWall
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeSnake
+[22:08:30] [Server thread/INFO]: [MAIN] [UIMAIN] [UI] Inventory initilized: Challenge evChallengeBedrockpath
+[22:08:30] [Server thread/INFO]: TaubsenLive left the game
